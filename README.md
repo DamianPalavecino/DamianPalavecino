@@ -1,4 +1,4 @@
-### <div align="center">I'm Damian Palavecino, a full-time full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Damian Palavecino, a junior full-stack developer 👨‍💻</div>  
   
 
 - 💼 I am currently looking for a full-time/part-time job as a developer.
