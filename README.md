@@ -3,6 +3,9 @@
 
 - 🔭 I’m currently working on [Juguetear](https://github.com/Juguetear/juguetear-web)  
   
+  
+- 🧠 I’m coding experiments for the Consciousness Laboratory of IFIBYNE - CONICET. 
+
 
 - 🌱 I’m currently learning Python 🐍  
   
