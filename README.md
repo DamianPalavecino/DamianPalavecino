@@ -1,7 +1,7 @@
 ### <div align="center">I'm Damian Palavecino, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Juguetear](https://github.com/Juguetear/juguetear-web)  
+- 💼 I am currently looking for a full-time/part-time job as a developer.
   
   
 - 🧠 I’m coding experiments for the Consciousness Laboratory of IFIBYNE - CONICET. 
