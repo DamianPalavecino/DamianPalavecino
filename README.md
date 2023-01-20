@@ -1,10 +1,10 @@
-### <div align="center">I'm Damian Palavecino, a Full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Damian Palavecino, a full-stack developer 👨‍💻</div>  
   
 
 - 💼 I am currently looking for a full-time/part-time job as a developer.
   
   
-- 🧠 I’m coding experiments for the Consciousness Laboratory of IFIBYNE - CONICET. 
+- 🧠 I’m coding experiments for the [Consciousness Laboratory of IFIBYNE - CONICET](https://sites.google.com/view/laboratoriodelaconciencia/p%C3%A1gina-principal).
 
 
 - 🌱 I’m currently learning Python 🐍  
