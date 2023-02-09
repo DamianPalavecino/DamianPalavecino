@@ -7,13 +7,13 @@
 - 🧠 I’m coding experiments for the [Consciousness Laboratory of IFIBYNE - CONICET](https://sites.google.com/view/laboratoriodelaconciencia/p%C3%A1gina-principal).
 
 
-- 🌱 I’m currently learning Python 🐍  
+- 🧑‍💻 I am constantly seeking to expand my knowledge of new technologies. I am eager to learn, whether it involves delving deep into a fresh programming language, discovering the latest cutting-edge framework, or uncovering innovative methods for solving intricate problems.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.  
   
 
-* 🆓 I'm looking to contribute in Open Source projects  
+* 🆓 I'm looking to contribute in Open Source projects.
   
 
 <br/>  
