@@ -98,6 +98,7 @@
 <div align="center">
   
 ![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianPalavecino&show_icons=true&theme=transparent)
+<!-- ![Damian's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianPalavecino&layout=compact) -->
   
 </div>
 
