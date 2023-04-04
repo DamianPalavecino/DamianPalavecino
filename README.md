@@ -3,6 +3,7 @@
 
 - 💼 I am currently looking for a full-time/part-time job as a developer.
   
+- 💻 I am currently building a career as a freelance web developer, developing dynamic and visually appealing websites for different types of clients such as businesses, personal brands, companies, and more, using different web development technologies and content management systems.
   
 - 🧠 I’m coding experiments for the [Consciousness Laboratory of IFIBYNE - CONICET](https://sites.google.com/view/laboratoriodelaconciencia/p%C3%A1gina-principal).
 
